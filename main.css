@@ -1,0 +1,302 @@
+marquee {
+  font-family: Quicksand;
+  background-color: #f6e1d8;
+  padding: .8rem;
+}
+
+
+body {
+  background-repeat: no-repeat;
+  background-size: 1436px 600px;
+  margin: 0;
+}
+
+.logo {
+  border: none;
+}
+
+
+.inner-menu {
+  margin: 0 auto; width: 1500px;
+  padding: 0;
+  list-style: none;
+} 
+
+.inner-menu ul {
+  font-family: Quicksand;
+  margin-top: 0;
+  margin-right: 45px;
+  padding: 35px;
+  list-style: none;
+  text-align: right;
+} 
+
+.inner-menu ul li {
+  float: none;
+  display: inline-block;
+  color: #3d2221;
+  font-size: 15px;
+} 
+
+.inner-menu ul li:nth-child(1){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu ul li:nth-child(2){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu ul li:nth-child(3){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu ul li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #3d2221;
+} 
+
+.main-menu {
+  width: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+.logo-area {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  margin-left: -250px;
+  left: 50%;
+  top: 0;
+  text-align: center;
+}
+
+.container-six {
+  display: flex;
+}
+
+.container-seven {
+  display: inline-block;
+}
+
+.no-border {
+  border: none;
+  padding: 10px;
+  display: flex;
+}
+
+.no-border-two {
+  border: none;
+  padding: 10px;
+  display: inline-block;
+}
+
+.button-one {
+  font-family: quicksand;
+  background-color: white;
+  font-weight: bolder;
+  border: 1.5px solid #3d2221;
+  color: #3d2221;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 18px;
+  text-decoration: none;
+}
+
+.page-section__heading {
+  font-size: 2rem;
+  padding: 40px;
+  font-weight: bold;
+  font-family: DM+Serif+Display;
+  color: #3d2221;
+}
+
+.page-section--hero {
+  text-align: center;
+}
+
+.page-section--hero .page-section__heading {
+  font-size: 2rem; 
+}
+
+
+.border{
+  border: 2px solid #3d2221;
+  padding: 50px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+ .essentials-one {
+  padding-left: 20px;
+  font-size: 2.5rem;
+  font-family: DM+Serif+Display;
+  color: #3d2221;
+  display: block;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 2px;
+}
+
+ .essentials-two {
+  padding-left: 20px;
+  font-size: 2.5rem;
+  font-family: quicksand;
+  color: #3d2221;
+  display: block;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 2px;
+}
+   
+.container {
+  position: relative;
+  margin: 0px;
+}
+
+img {
+width: 20%;
+padding: 0;
+float: left;
+margin: 0;
+display: inline-block;
+border: 1.5px solid #3d2221;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 18px;
+  font-family: quicksand;
+  color: #3d2221;
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
+  font-family: quicksand;
+  color: #3d2221;
+}
+
+.gallery-one {
+  width: 123.5%;
+  height: 130%;
+  margin: 0px;
+}
+
+
+.gallery-two-container {
+  display: inline-block;
+}
+
+.gallery-two-img {
+  border: none;
+  height: 520px;
+  width: 425px;
+  margin-left: 27px;
+  margin-right: 27px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.button-two {
+  font-family: quicksand;
+  background-color: transparent;
+  font-weight: bolder;
+  border: 1.5px solid #3d2221;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 18px;
+  text-decoration: none;
+  margin-left: -40px;
+}
+
+.inner-menu-two {
+  margin: 0 auto; 
+  width: 1500px;
+  list-style: none;
+} 
+
+.inner-menu-two ul {
+  font-family: Quicksand;
+  margin-top: 0;
+  margin-right: 45px;
+  padding: 35px;
+  list-style: none;
+  text-align: right;
+} 
+
+.inner-menu-two ul li {
+  float: none;
+  display: inline-block;
+  color: #3d2221;
+  font-size: 12px;
+  padding-top: 5px;
+} 
+
+.inner-menu-two ul li:nth-child(1){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu-two ul li:nth-child(2){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu-two ul li:nth-child(3){
+  float: left;
+  color: #3d2221;
+} 
+
+.inner-menu-two ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: #3d2221;
+} 
+
+.second-mark {
+  width: 1200px;
+  height: 150px;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-container{
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
